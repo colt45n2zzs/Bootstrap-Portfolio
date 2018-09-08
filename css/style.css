@@ -1,0 +1,6 @@
+body, html {
+    height: 100%;
+}
+
+body { background-image: url(../images/what-the-hex.png);
+}
