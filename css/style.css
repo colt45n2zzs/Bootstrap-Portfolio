@@ -26,3 +26,9 @@ body { background-image: url(../images/what-the-hex.png);
                 margin: 0;
                 max-width: 768px;} 
 }
+
+@media screen and (max-width: 510px) {
+    .navbar-brand {padding-right: 0;
+                   font-size: 17px;
+                   margin: 0;} 
+}
